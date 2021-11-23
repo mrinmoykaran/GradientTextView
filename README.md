@@ -21,6 +21,9 @@
 
 ## Getting started
 
+### Using Gradle
+---
+
 *Versions 1.0.0 can only be used with jitpack, versions 1.1.0 and up can be used with Maven Central.*
 
 **Step 1 :** Add it in your root `build.gradle` at the end of repositories.
@@ -53,6 +56,27 @@ implementation 'com.github.mrinmoykaran:GradientTextView:1.0.0'
         app:centerColor="#FF9800"
         app:endColor="#FF5722"
         app:angle="45"/>
+```
+### Using Maven
+---
+**Step 1 :** Add the JitPack repository to your build file.
+```
+   <repositories>
+	<repository>
+           <id>jitpack.io</id>
+	   <url>https://jitpack.io</url>
+	</repository>
+   </repositories>
+```
+
+**Step 2 :** This library is available on jitpack,maven it by adding the following dependency to your <b>build.gradle</b>:
+```
+    <dependency>
+     <groupId>com.github.mrinmoykaran</groupId>
+	<artifactId>GradientTextView</artifactId>
+      <version>Tag</version>
+    </dependency>
+
 ```
 
 ## Attribute Descriptions
