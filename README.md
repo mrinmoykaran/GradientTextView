@@ -74,7 +74,7 @@ implementation 'com.github.mrinmoykaran:GradientTextView:1.0.0'
     <dependency>
      <groupId>com.github.mrinmoykaran</groupId>
 	<artifactId>GradientTextView</artifactId>
-      <version>Tag</version>
+      <version>1.0.0</version>
     </dependency>
 
 ```
