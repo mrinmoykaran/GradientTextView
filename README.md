@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat" height="22" valign="middle">&nbsp;&nbsp;
  <img src="https://jitpack.io/v/mrinmoykaran/GradientTextView.svg" height="22" valign="middle">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Platform-Android-brightgreen.svg" height="22" valign="middle">&nbsp;&nbsp;
- <img src= "https://avatars.githubusercontent.com/u/25265062?s=64&v=4" height="22" valign="middle">&nbsp;&nbsp;By <a href="linkedin.com/in/mrinmoykaran/">Mrinmoy Karan</a>
+
 </h6>
 
 ## Contents
