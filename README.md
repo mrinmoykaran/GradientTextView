@@ -21,15 +21,9 @@
 
 ## Getting started
 
-This library is available on jitpack,maven it by adding the following dependency to your <b>build.gradle</b>:
-```gradle
-
-implementation 'com.github.mrinmoykaran:GradientTextView:1.0.0'
-```
-
 *Versions 1.0.0 can only be used with jitpack, versions 1.1.0 and up can be used with Maven Central.*
 
-**Step 1:** Add it in your root `build.gradle` at the end of repositories.
+**Step 1 :** Add it in your root `build.gradle` at the end of repositories.
 ```xml
    allprojects {
 		repositories {
@@ -39,7 +33,14 @@ implementation 'com.github.mrinmoykaran:GradientTextView:1.0.0'
 	}
 ```
 
-**Step 2:** Define `GradientTextView` in your XML layout with custom attributes.
+**Step 2 :** This library is available on jitpack,maven it by adding the following dependency to your <b>build.gradle</b>:
+```gradle
+
+implementation 'com.github.mrinmoykaran:GradientTextView:1.0.0'
+
+```
+
+**Step 3 :** Define `GradientTextView` in your XML layout with custom attributes.
 ```xml
     <com.mrinmoy.karan.GradientTextView
         android:layout_width="wrap_content"
