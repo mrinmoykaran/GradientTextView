@@ -6,7 +6,6 @@
 </p>
 <h6 align="center">
  <img src="https://img.shields.io/badge/Android-GradientTextView-blue.svg" height="22" valign="middle">&nbsp;&nbsp;
- <img src="https://img.shields.io/github/forks/mrinmoykaran/gradienttextview?style=social" height="22" valign="middle">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat" height="22" valign="middle">&nbsp;&nbsp;
  <img src="https://jitpack.io/v/mrinmoykaran/GradientTextView.svg" height="22" valign="middle">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Platform-Android-brightgreen.svg" height="22" valign="middle">&nbsp;&nbsp;
