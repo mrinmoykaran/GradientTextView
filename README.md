@@ -23,7 +23,7 @@
 ### Using Gradle
 ---
 
-*Versions 1.0.0 can only be used with jitpack, versions 1.1.0 and up can be used with Maven Central.*
+*Versions 1.0.0 can only be used with jitpack
 
 **Step 1 :** Add it in your root `build.gradle` at the end of repositories.
 ```xml
